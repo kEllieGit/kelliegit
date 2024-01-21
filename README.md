@@ -16,12 +16,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=kelliegit&card_width=320&border_radius=0&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kelliegit&layout=compact&langs_count=10&border_radius=0&theme=transparent" />
-  </a>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kelliegit&card_width=320&border_radius=0&theme=transparent" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kelliegit&layout=compact&langs_count=10&border_radius=0&theme=transparent" />
 </div>
 
 ---
