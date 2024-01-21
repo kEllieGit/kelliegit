@@ -2,6 +2,15 @@
   <h3>👋 Welcome to my profile!</h3>
   I'm a Full Stack Software Developer from <img height=10 width=15 src="https://github.com/kEllieGit/kelliegit/assets/53048761/007d9f01-2b9f-406b-a64e-cbd91ae532f1"/> Finland. <br>
    Here, you will find all of my open-source projects.
+
+<br>
+
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" />
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" />
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" />
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" />
+<img height=35 width=35 src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" />
 </div>
 
 <br>
