@@ -30,7 +30,4 @@
   <a href="https://github.com/kEllieGit/SBox-Visual-Novel-Base">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelliegit&border_radius=0&theme=transparent&repo=sbox-visual-novel-base" alt="VNBase">
   </a>
-  <a href="https://github.com/kEllieGit/vnscript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelliegit&border_radius=0&theme=transparent&repo=vnscript" alt="VNScript">
-  </a>
 </p>
