@@ -19,15 +19,3 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=kelliegit&card_width=320&border_radius=0&theme=transparent" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kelliegit&layout=compact&langs_count=10&border_radius=0&theme=transparent" />
 </div>
-
----
-
-<div align="center">
-  <h3>Notable Projects</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/kEllieGit/SBox-Visual-Novel-Base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelliegit&border_radius=0&theme=transparent&repo=sbox-visual-novel-base" alt="VNBase">
-  </a>
-</p>
